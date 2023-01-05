@@ -1,6 +1,7 @@
 What a year it's been, let's take a look back at my project's #development!
 
-(p.s. I wanted to include more, but due to LinkedIn's character limit I couldn't include everything I wanted to share. So I made a GitHub repository containing the original post) -> https://github.com/chriscross12324/spectrum_devlog_jan2023
+(p.s. This is a long read, but please give it a chance. It's very exciting and provides an insight to my apps development. Also there is new content updates provided later on)
+
 
 <b>UI:</b> The User Interface is a major factor to consider when developing a mobile application, you need to strive to hit certain criteria while overcoming many challenges. The criteria I set included: Understanding, Freshness, Customization, Purposeful, and Integrated. Some of these criteria may not be standard, but with the goal of creating something truly unique, something rules need to be broken.
 
