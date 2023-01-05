@@ -21,4 +21,4 @@ What a year it's been, let's take a look back at my project's #development!
 <b>4) Refinements:</b> As always, refinements will be an ongoing process. Both the User Interface and User Experience have gone through multiple iterations of change, from font sizes and container padding, to major redesigns. These changes can be small, but minor issues can add up quickly.
 
 
-<b>Now for some images!!!</b> Check back on the <a href="https://www.linkedin.com/posts/chris-coulthard_development-ui-ux-activity-7016690866916388864-dY3a?utm_source=share&utm_medium=member_desktop">original<a> LinkedIn post for the images.
+<b>Now for some images!!!</b> <i>Check back on the <a href="https://www.linkedin.com/posts/chris-coulthard_development-ui-ux-activity-7016690866916388864-dY3a?utm_source=share&utm_medium=member_desktop">original<a> LinkedIn post for the images.</i>
